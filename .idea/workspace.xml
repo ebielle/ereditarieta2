@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01471a61-3c1c-4047-b616-d801b2dc4e33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Forma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rettangolo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ereditarieta22.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ereditarieta2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calcolaArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calcolaArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rettangolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rettangolo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712603860531</updated>
       <workItem from="1712603861496" duration="203000" />
-      <workItem from="1712604218869" duration="650000" />
+      <workItem from="1712604218869" duration="3079000" />
     </task>
     <servers />
   </component>
