@@ -1,10 +1,9 @@
-public class Rettangolo extends Forma {
+public class Triangolo extends Forma {
 
-    private int base;
+    private int base = 0;
+    private int altezza = 0;
 
-    private int altezza;
-
-    public Rettangolo(int base, int altezza) {
+    public Triangolo(int base, int altezza) {
         this.base = base;
         this.altezza = altezza;
     }
@@ -27,6 +26,7 @@ public class Rettangolo extends Forma {
 
     @Override
     public int calcolaArea() {
-        return base * altezza;
+        return (base * altezza) / 2;
     }
+
 }
